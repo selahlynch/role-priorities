@@ -1,0 +1,642 @@
+{
+  "employees": [
+    {
+      "diversity": "large", 
+      "name": "Employee pfl3",
+      "displayName": "Employee pfl3",
+      "money": 130000, 
+      "bias": "M", 
+      "avatar": "images/avatar/employee/avatar-red-64x64.png",
+      "background": "finance", 
+      "narrative": "<p>You have been working for Fortune 500 companies ever since receiving your Masters of Science in software engineering six years ago. Most of your work has been in integrating complex financial software, and you have picked up a broad knowledge base of finance, corporate investments, and statistical techniques. The more you deal with startups trying to sell you on their products and services, the more you think that entrepreneurship could be a good path for you. You are looking to join a new company that will value your experience and allow you to use both your knowledge of computer software and finance.</p><p>You are currently earning <strong>$130,000</strong> per year. You are willing to take that amount or, potentially, less if you can get equity in the startup.</p>",
+      "is_super": false, 
+      "skill": "programming"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "Employee sflx",
+      "displayName": "Employee sflx",
+      "money": 200000, 
+      "bias": "M", 
+      "avatar": "images/avatar/employee/avatar-green-64x64.png",
+      "background": "finance", 
+      "narrative": "<p>You have been working for a retail brokerage firm for nearly ten years, and have taken on a variety of sales and marketing roles in that time. You are a valued member of the large company in which you work, have accrued an extensive network of business connections, and have been able to successfully sell almost any product to almost any customer. Whether the product is complex or simple; technical or financial; consumer or business-to-business; you are the go-to salesperson to handle it. Despite your success, however, the recent volatility in the market has convinced you that it might be time to try something new, and startups have always interested you. You are confident that your skills and experience will make any company you chose to work for a success.</p><p>You are currently earning <strong>$100,000</strong> a year <strong>plus bonuses equal to at least that much</strong>, and your salary would likely increase as the market improves. You'd have to be making significantly more than this to be willing to move to a riskier, smaller company. You will be looking for stability in a volatile market, so a substantial salary is your priority. What you bring to a small company is invaluable, so you can demand a lot.</p>",
+      "is_super": true, 
+      "skill": "sales"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "Employee sfsx",
+      "displayName": "Employee sfsx",
+      "money": 300000, 
+      "bias": "M", 
+      "avatar": "images/avatar/employee/avatar-green-64x64.png",
+      "background": "finance", 
+      "narrative": "<p>After graduating from a top MBA program, you found yourself gravitating towards sales roles and were brought in to head the sales department of a small consumer-loan company. Due to your visionary approach, the company was quick to gain market share and  recognition. It was soon purchased by a leader in the industry.  Unfortunately for you, that meant you were out of a job; fortunately for you, however, this was just the push you needed to try joining up with a new start-up, which is what you are best at anyway. (Maybe you can even put your old MBA in finance to use this time!)</p><p>You used to make <strong>$300,000 a year</strong>, and you don’t want to take a pay cut. With your experience, any new company should be happy to have you on board and would be hard-pressed to find a more experienced or credentialed salesperson.</p>",
+      "is_super": true, 
+      "skill": "sales"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "Employee efs2",
+      "displayName": "Employee efs2",
+      "money": 200000, 
+      "bias": "E", 
+      "avatar": "images/avatar/employee/avatar-blue-64x64.png",
+      "background": "finance", 
+      "narrative": "<p>You’ve completed all your personal work goals by climbing to the top of a small retail bank and running the show. Now that you've learned the ins and outs of operating someone else’s business for years, you would like to take your knowledge and skills to start a new endeavor – perhaps getting your hands on a young company.</p><p>You are currently earning <strong>$320,000 a year</strong>, but you’re willing to take a significant salary cut to get a big equity stake. Working your way up from the bottom of your current firm, you know all of the nuts and bolts of the business, and feel like you can apply that knowledge to any company.</p>",
+      "is_super": false, 
+      "skill": "executive"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "Employee tfl0",
+      "displayName": "Employee tfl0",
+      "money": 150000, 
+      "bias": "E", 
+      "avatar": "images/avatar/employee/avatar-gray-64x64.png",
+      "background": "finance", 
+      "narrative": "<p>You were the managing engineer for the leading manufacturer of small-business financial software. Your expertise in coding and knowledge of bookkeeping has earned your company awards for the best accounting software two years running. Unfortunately, your company did not share your high standards. The CEO was convicted for tax evasion and for spending company money on personal expenses, ruining the business's reputation and causing it to go under. Frustrated, you are now looking for a small startup with which to share your skills.</p><p>You made <strong>$200,000 a year</strong> at your previous company, but would be more than willing to work for less money in order to gain a large piece of the startup’s shares.</p>",
+      "is_super": false, 
+      "skill": "technical"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "Employee mbsx",
+      "displayName": "Employee mbsx",
+      "money": 100000,
+      "bias": "E", 
+      "avatar": "images/avatar/employee/avatar-orange-64x64.png",
+      "background": "biomedical", 
+      "narrative": "<p>You just exited a startup – a biomedical supply and distribution company that was acquired by a large industry player in the industry, making you millions. You weren't the CEO, but you got much of the credit for your firm's success by developing a unique marketing strategy that spoke equally well to doctors, patients and manufacturers alike. You don't need to work ever again, but you have had some marketing ideas that you were never able to implement the first time around – so perhaps you could find a role in another startup?</p><p>You still want to be working hands-on and are more than financially secure at this point in your life, so taking a share of a small startup that has the potential to become huge is way more appealing to you than short-term cash. In fact, with enough of the company promised to you, you won't need any salary at all. You are positive that your superior marketing skills will ensure success at any company, and taking a percentage of that success should more than suffice, especially as you are completely worth it.</p>",
+      "is_super": true, 
+      "skill": "marketing"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "Employee sol0",
+      "displayName": "Employee sol0",
+      "money": 400000, 
+      "bias": "E", 
+      "avatar": "images/avatar/employee/avatar-green-64x64.png",
+      "background": "entertainment", 
+      "narrative": "<p>You are one of the leading sales agents for a big Hollywood agency, and it is quite a lucrative job.  That being said, the life of a big-time Hollywood agent can be stressful. It has made your personal life a little shaky because you're always so involved with work, and it's done quite a number on your blood pressure. You would love to take your ability to sell anything (even words) to a field where you don't have to work with people in the movie business – in fact, just about any field without movie people sounds good right about now.</p><p>You currently make <strong>$400,000 a year</strong>, but you  would be happy to trade a little of your starting salary for a big \"\"piece of the pie\"\" at a startup.</p>",
+      "is_super": false, 
+      "skill": "sales"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "Employee pslx",
+      "displayName": "Employee pslx",
+      "money": 180000, 
+      "bias": "E", 
+      "avatar": "images/avatar/employee/avatar-red-64x64.png",
+      "background": "social", 
+      "narrative": "<p>You graduated from college with a degree in computer science, and have been working for eBay ever since, doing interface and database programming for their social-networking initiatives.  Though your ideas have been groundbreaking and made the company millions, your progress up the ladder has been too slow for your taste. You are an extremely talented programmer but haven’t been properly recognized due to the fact that you work for such a large, established company. Thus, you feel that being in charge of the programming at a newer company would be much more rewarding.</p><p>You are currently earning <strong>$160,000 a year</strong>. What you really want is more control over your own destiny and the future of a company.  With more responsibility comes more money, obviously, so you want a higher salary, in addition to equity. With your current skills, you feel like you are completely underutilized and underpaid – but you know you’re the best, and you want to prove it.</p>",
+      "is_super": true, 
+      "skill": "programming"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "Employee esl0",
+      "displayName": "Employee esl0",
+      "money": 300000, 
+      "bias": "E", 
+      "avatar": "images/avatar/employee/avatar-blue-64x64.png",
+      "background": "social", 
+      "narrative": "<p>You are an executive of one of the leading dating sites, brought in after the company had already achieved some degree of scale. You've kept the company going despite tough competition, and have made key decisions in bringing new demographics of customers into the business. Your management skills and outgoing personality have helped you warm up to anyone ranging from engineers to the sales team.</p><p>You currently make <strong>$300,000 a year</strong>, and have shares in the company. However, you are growing tired of the current project, and have enough people to fill your responsibilities at your current job. You would like to work with a new company and help build their foundation, but you also want enough equity that could justify you leaving your current position, while still maintaining your salary.</p>",
+      "is_super": false, 
+      "skill": "executive"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "Employee ebl0",
+      "displayName": "Employee ebl0",
+      "money": 400000, 
+      "bias": "M", 
+      "avatar": "images/avatar/employee/avatar-blue-64x64.png",
+      "background": "biomedical", 
+      "narrative": "<p>You have been the executive overseeing a major product line at a large pharmaceutical company – a huge responsibility. While you have been very successful in this regard, you are now looking for a fresh challenge, and you think you'd like to try running a startup. You are hopeful that you can help build a new team to take on new challenge.</p><p>You are currently earning <strong>$400,000 a year</strong>, and you have a lot in the bank. As such, you are easily willing to trade guaranteed money for a large \"\"slice of the pie. \"\"</p>",
+      "is_super": false, 
+      "skill": "executive"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "Employee tblx",
+      "displayName": "Employee tblx",
+      "money": 120000, 
+      "bias": "E", 
+      "avatar": "images/avatar/employee/avatar-gray-64x64.png",
+      "background": "biomedical", 
+      "narrative": "<p>Within the large pharma company in which you work, you are known as something of a wunderkid: you have overhauled the company's online strategy, built out new research tools credited with increasing productivity, and developed a number of key software packages. After seven years, however, the job isn't that much fun anymore. With your level of expertise, you are in high demand and are leaving your current position in search of  a refreshing change of pace.</p><p>Your salary was <strong>$160,000</strong> a year. Between that and your stock options, you’re looking mostly for equity in a new company. Of course, you’ll want a competitive salary as well, but your priority is a good stake in your new venture, and you are willing to take a considerable pay cut for decent equity.</p>",
+      "is_super": true, 
+      "skill": "technical"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "Employee mbs0",
+      "displayName": "Employee mbs0",
+      "money": 150000, 
+      "bias": "E", 
+      "avatar": "images/avatar/employee/avatar-orange-64x64.png",
+      "background": "biomedical", 
+      "narrative": "<p>You came up with one of the first effective email-marketing campaigns for pharmaceuticals while working at a small generic-drug distribution company, filling inboxes with emails about your company’s product.. This marketing campaign has since been copied by many larger firms. But, as  you were working for such a small company at the time, you feel like you were never paid appropriately for your innovation You are now looking for a startup with a great new idea so you can create an equally successful marketing campaign.</p><p>You are currently earning <strong>$150,000 a year</strong>. You definitely want some percentage of the company you join, in order to ensure that you aren't looked over again this time around.</p>",
+      "is_super": false, 
+      "skill": "marketing"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "Employee mss0",
+      "displayName": "Employee mss0",
+      "money": 100000,
+      "bias": "M", 
+      "avatar": "images/avatar/employee/avatar-orange-64x64.png",
+      "background": "social", 
+      "narrative": "<p>You've been a marketing consultant to major brands looking to exploit social networks.  As effective marketing strategies become popular and over-saturated, you've always been on the cutting edge of new techniques and avenues to push through to customers sooner.</p><p>You typically do contract work for individual marketing campaigns.  In the past, you have been a part of a small marketing firm, but you love having the freedom to work the jobs you want, when you want..  Now, you want to be part of something big.  Helping a new company develop an end-to-end marketing plan for a new product is probably just what you are looking for.  Knowing that a new company probably can't pay as much, you'd be willing to accept a starting salary of <strong>$100,000</strong>.</p>",
+      "is_super": false, 
+      "skill": "marketing"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "Employee pssx",
+      "displayName": "Employee pssx",
+      "money": 200000, 
+      "bias": "M", 
+      "avatar": "images/avatar/employee/avatar-red-64x64.png",
+      "background": "social", 
+      "narrative": "<p>You did all the programming for a new social networking website with your college friends.  With some minor early success, your group decided to sell the site at the first chance, and given the great job you did, that was almost immediately.  Now you are looking for the next big thing, and your innovative programming approaches have been sought after by various companies already.  You haven't accepted any yet because being extremely talented means you have some freedom to be particular, and you want to really pick something you believe in.</p><p>You currently aren't working, but have plenty of savings.  You just want to find the right new place so you are willing to wait and do some of your own programming projects until something comes along. You won't want to take any position that pays less than <strong>$200,000</strong> and gives you some stock in the company.</p>",
+      "is_super": true, 
+      "skill": "programming"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "Employee tsl5",
+      "displayName": "Employee tsl5",
+      "money": 195000, 
+      "bias": "E", 
+      "avatar": "images/avatar/employee/avatar-gray-64x64.png",
+      "background": "social", 
+      "narrative": "<p>You are a technical lead for the one of the most popular social networking site on the internet. You help with a variety of technical issues related to the site, both programming and project managing.  However, you were most comfortable working in a smaller atmosphere when the company was just getting started. Now that the company has become a leading social networking tool, it has expanded beyond the small little start-up that you enjoyed working on. The work has gone from creating new and challenging software to enhancing existing programs and copying the successes of other competitors.</p><p>You currently make <strong>$250,000 a year</strong>, but would be happy to trade money for shares if you can work in an environment that you are more comfortable in.  You know the ins and outs of creating a social website infrastructure, and along with having plenty of contacts on the design side, you should have no problem helping any company bring their presence online.</p>",
+      "is_super": false, 
+      "skill": "technical"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "Employee mol5",
+      "displayName": "Employee mol5",
+      "money": 350000, 
+      "bias": "M", 
+      "avatar": "images/avatar/employee/avatar-orange-64x64.png",
+      "background": "entertainment", 
+      "narrative": "<p>You are the marketing genius behind a recent kitchen tool that has exploded on the market due to amazing infomercials, aided by the Australian spokesperson that you found. He was so unforgettable in his pitches that the product gained huge notoriety through his antics. Even his scandal involving a fight with a wrestler and his two ex-wives couldn't keep your marketing campaign down. It was unstoppable!  That being said, you would like to distance yourself from infomercials, since you were starting to worry that you were no longer being taken seriously, for some reason. You'd like to take your marketing skills to a start-up where your innovative skills can breach into a new market.</p><p>You made <strong>$350,000 a year</strong> as the lead marketer for your old job, and would like to continue earning that amount at the very minimum. However, you know that you're an expert in how to make your product look great, and would expect a little bit more incentive if you want to work for a new company.</p>",
+      "is_super": false, 
+      "skill": "marketing"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "Employee ess0",
+      "displayName": "Employee ess0",
+      "money": 100000, 
+      "bias": "M", 
+      "avatar": "images/avatar/employee/avatar-blue-64x64.png",
+      "background": "social", 
+      "narrative": "<p>You have created four niche social network sites in the past few years, each aimed at different religious or ethnic groups.  Two have been bought by larger players, never for a huge sum of money, but enough so that you can launch your next venture.  You hope to help start a new site that doesn't plan to sell out as soon as it becomes successful.  Maybe this way, you'll be the executive of the next Facebook or Twitter.</p><p>You aren't working yet, but always have plenty of options.  You have a multitude of minor ideas you could start on, but would be very interested if a better idea were to become available.  To even be worth your time, you'd have to be making at least <strong>$100,000</strong>.</p>",
+      "is_super": false, 
+      "skill": "executive"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "Employee sos5",
+      "displayName": "Employee sos5",
+      "money": 150000, 
+      "bias": "M", 
+      "avatar": "images/avatar/employee/avatar-green-64x64.png",
+      "background": "entertainment", 
+      "narrative": "<p>You worked in sales at a small video game manufacturer for the past ten years, and have run the department for the last five.  You’ve gotten your company’s product on the shelves at all the major specialty and online retailers as well as the big box stores, and under your watch your company’s revenues have more than doubled.  Despite your success, you’re not happy working for a small fish in a big pond, and you’re looking to find a new company with a product that has the potential to be the next big thing.</p><p>You’re currently making  <strong>$150,000 a year</strong>, and while you’d like to make more, you’re more interested in finding a company you believe will be a market leader in its category.</p>",
+      "is_super": false, 
+      "skill": "sales"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "Employee tbs2",
+      "displayName": "Employee tbs2",
+      "money": 120000, 
+      "bias": "M", 
+      "avatar": "images/avatar/employee/avatar-gray-64x64.png",
+      "background": "biomedical", 
+      "narrative": "<p>You are a recent graduate with a Masters degree in bio-informatics. You did analysis work for a small-time pharmaceutical company researching dietary supplements. As part of the job, they also paid to have you trained in programming and operating standard lab equipment. Your expertise is in human physiology, but your technical expertise in both computers and lab equipment was invaluable to that company. As they have finished their current term with you, you are looking into other areas to chip in with your wide variety of skills.</p><p>You have been offered <strong>$120,000 </strong>for a full-time research position at your current pharmaceutical company. If someone else is going to get you on board for their project, they're going to have to at least meet that.</p>",
+      "is_super": false, 
+      "skill": "technical"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "Employee pbs0",
+      "displayName": "Employee pbs0",
+      "money": 100000, 
+      "bias": "M", 
+      "avatar": "images/avatar/employee/avatar-red-64x64.png",
+      "background": "biomedical", 
+      "narrative": "<p>You just got your Masters in Computer Science.  While in school, you worked with the hospital updating and creating new interfaces for their systems.  You've also done a lot of side projects creating user interfaces for various other companies.  As the business world is starting to realize the importance of efficient interfaces, your specialization in this type of programming makes you quite desirable.  The only reason you haven't started working for a big company is because you would much rather skip right to the top of a smaller company.</p><p>You have received offers of <strong>$100,000/year</strong> from some larger companies, but really want to see if it is possible to be a part of the next big thing instead.  You can't really afford to delay paying off your student loans, and you have to eat, so working for free is also out of the question.</p>",
+      "is_super": false, 
+      "skill": "programming"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "Employee eol5",
+      "displayName": "Employee eol5",
+      "money": 400000, 
+      "bias": "E", 
+      "avatar": "images/avatar/employee/avatar-blue-64x64.png",
+      "background": "entertainment", 
+      "narrative": "<p>You are the top executive for a popular hotel in Las Vegas. Your leadership and management skills have kept problems down, employee morale up and profits high. You've continued to move the company further up in popularity, and can now claim to be running one of the top hotels in Sin City. However, you have grown tired of living in Vegas, as it can get hectic. You would like to bring your skill-set to a start-up, for the right incentives.</p><p>Your pay is currently <strong>$450,000</strong>, but you are willing to negotiate a bit on payment as long as you get a big say in the new company.</p>",
+      "is_super": false, 
+      "skill": "executive"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "Employee tfs5",
+      "displayName": "Employee tfs5",
+      "money": 160000, 
+      "bias": "M", 
+      "avatar": "images/avatar/employee/avatar-gray-64x64.png",
+      "background": "finance", 
+      "narrative": "<p>You have spent the past five years building and maintaining the software infrastructure for a small but very successful hedge fund.  You’ve helped the company make millions with your improvements to the speed at which your systems can process data, but you’ve grown bored with a job that hasn’t really changed much since you arrived. You’re looking for a new project that will better challenge your skills.</p><p>You’re currently making <strong>$160,000 a year</strong>.  Like anyone, you’d prefer to make more, but your priority is finding a company that seems like it will be an exciting and challenging place to work.</p>",
+      "is_super": false, 
+      "skill": "technical"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "Employee mos0",
+      "displayName": "Employee mos0",
+      "money": 200000,
+      "bias": "M", 
+      "avatar": "images/avatar/employee/avatar-orange-64x64.png",
+      "background": "entertainment", 
+      "narrative": "<p>In the past ten years, you’ve built the marketing campaigns that have brought your small publishing company from a basement operation to one of the most popular voices in modern comics.  Your efforts brought your company’s products to a much wider audience and helped break past many of the demographic challenges the comic industry faces.  Despite your monumental success within your industry, you’re getting older and feel like you want to be working on more “serious” projects.</p><p>You’re currently making <strong>$200,000 a year</strong> and would like to do better, but you’d be willing to accept a bit less if it meant you’d have an important role in a company whose product inspired you.</p>",
+      "is_super": false, 
+      "skill": "marketing"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "Employee pos5",
+      "displayName": "Employee pos5",
+      "money": 150000, 
+      "bias": "M", 
+      "avatar": "images/avatar/employee/avatar-red-64x64.png",
+      "background": "entertainment", 
+      "narrative": "<p>For the past ten years, you’ve made your living as a freelance programmer working on a wide range of projects for small gaming companies.  Your clients have been consistently impressed with the quality of your work and you have been offered a number of permanent positions, but you’ve valued your freedom more than a steady wage.  All that changed when you got married and had your first child, and now the idea of regular hours and a steady paycheck is much more attractive.</p><p>You’re looking for at least <strong>$150,000</strong> in salary to join a company full time.  You’re more concerned with finding a stable company that is likely to be successful than the prospect of hitting it big.</p>",
+      "is_super": false, 
+      "skill": "programming"
+    }
+  ], 
+  "companies": [
+    {
+      "diversity": "exploratory", 
+      "name": "The Duck Blind",
+      "displayName": "TheDuckBlind.com",
+      "skills": [
+        "programming", 
+        "technical"
+      ], 
+      "min_funding": 3000000, 
+      "avatar": "images/avatar/company/duck-blind-64x64.png",
+      "avatar96": "images/avatar/company/duck-blind-96x96n.png",
+      "background": "social", 
+      "narrative": "<p>This is a social-networking site for hunters who wish to connect about hunting trips and techniques. It also has its own specialized webcams that clip onto rifles and other guns and can help hunters post and share videos of  successful hunts. You’ve been selling these kits to various hunting lodges and to individual users. You had a feature on television already, and there have been talks of making a show out of this idea. This is an overall new concept, so there’s no established market.  However, you have managed to get a small group of devoted users, but your out-of-date technology is slowing you down. You need an overhaul of the website since there are plans to grow rapidly. There’s also no way your server and database can currently handle this type of load, so you’ll need a technical guy to handle all these advances.</p><p><strong>Current Resources:</strong><br />TheDuckBlind.com was founded by a pair of business school graduates with some basic technical knowledge. The two of you handle all the business activity, but the programming and technical needs have moved beyond your expertise. Your startup is about a year old and rapidly growing. You can skip a lot of the growing pains by throwing money you’re your marketing skills at any existing problems – but, before you can really grow you need to revamp your site.</p><p>You’ve been reinvesting every dollar made so far back into the site, as you are pretty sure your concept will pay off huge. You want even more money to grow even faster, and the $20,000 a month your site is currently generating just isn’t cutting it anymore. You believe that a new market is immerging and hope the TheDuckBlind.com will be making upwards of $100 million annually by year five.</p><p><strong>Current Strategy:</strong><br />You want to expand to television, and develop a lot of spin-off products.  Before you can really start pitching these types of things, however, you need to grow your user base. And before that, you need to make sure both your hardware and software can handle the load.</p><p><strong>Current Needs:</strong><br />You need to revamp your hardware, and possibly design new parts for the webcam kits and accessories. You estimate that it’ll take a technical expert and at least $1,000,000 to get this done in a timely fashion. You’ll need another $1,000,000 to travel and sell/market these ideas to the relevant parties. On the plus side, this is something you and your partner can do yourselves.</p><p>You also need to revamp your database software and your website. Having this professionally done by an experienced programmer. Cutting costs here seems to be a bad idea, and you are willing to spend $1-3M on this. Whatever it takes, your site has to look awesome.</p>",
+      "ideal_funding": 5000000,
+      "short_narrative":"Hunters connect up to share information about hunting trips and post videos from a specialized web-cam that attaches to guns.",
+      "animation_pointer":"logoDuckBlind"
+    }, 
+    {
+      "diversity": "exploitative", 
+      "name": "Crowdworkers",
+      "displayName": "CrowdWorkers.com",
+      "skills": [
+        "marketing", 
+        "programming"
+      ], 
+      "min_funding": 600000, 
+      "avatar": "images/avatar/company/crowd-workers-64x64.png",
+      "avatar96":"images/avatar/company/crowd-workers-96x96n.png",
+      "background": "social", 
+      "narrative": "<p><strong>CrowdWorkers.com</strong> leverages the power of social networks to solve problems. Businesses submit problems via the site, which are then promoted via existing social networks such as Twitter, Facebook, and LinkedIn. The site makes it easy for people to share these problems with friends and followers, and provides a platform for collaboration. A bounty on each problem entices people to submit ideas and solutions. There is a nominal fee for each problem submitted. While crowdsourcing is not a new idea, you think that your use of existing social networks will make public problem-solving financially successful. Given the rapidly growing market (nearly a $1 billion last year), and your early market research, it seems possible for this site to gain $100M revenue from this market by year five.</p><p><strong>Current Resources:</strong><br />CrowdWorkers.com was founded by two seasoned executives who have worked in a variety of industries. The initial website was contracted out to a firm, but future expansion calls for a dedicated programmer. The site was originally marketed through the founders’ contacts. With aims to expand, you’ll need a marketing person to help drive the effort.</p><p>Your company is currently up and running on a small scale and making $5,000 a month. With an ideal amount of funding, you hope to grab 10% of the market share within a few years. You have the ideas and some of the technical needs covered, and you currently have $100,000 in the bank.</p><p><strong>Current Strategy:</strong><br />You need to improve the platform and publicize the site in order to make it a major player in the marketplace. However, if one of the larger players wishes to buy you out, that wouldn't be out of the question.</p><p><strong>Current Needs:</strong><br />You need to make the platform more robust in order to handle more concurrent users, especially those collaborating on problems. You estimate that you can do this for $500,000, at a minimum, or up to $2,000,000 if you choose to move the platform completely to a cloud-hosted environment – you'd definitely need a programmer to take charge of that, though. You also need a marketing person to improve the site’s profile and step up current advertising efforts. You estimate that you can do this for $100,000 through mass viral methods, or up to $3,000,000 if you use traditional advertising. Having a marketing professional on staff would no doubt increase the effectiveness of each dollar spent.</p>",
+      "ideal_funding": 5000000,
+      "short_narrative":"Uses social networks to solve people's posted problems.",
+      "animation_pointer":"logoCrowdWorkers"
+    }, 
+    {
+      "diversity": "exploitative", 
+      "name": "Watch What Im Watching",
+      "displayName": "Watch What I'm Watching",
+      "skills": [
+        "programming", 
+        "executive"
+      ], 
+      "min_funding": 1000000, 
+      "avatar": "images/avatar/company/watching-64x64.png",
+      "avatar96": "images/avatar/company/watching-96x96n.png",
+      "background": "social", 
+      "narrative": "<p><strong>WhatWhatImWatching.com (or, WWIW)</strong> is a new social-networking site that lets users connect with their friends and watch whatever TV show or movie they’re currently streaming. There is a chat feature that allows the users to talk about what they’re currently watching, people can find and friend each other based on shows they’ve watched, and users can purchase shows to watch directly through the WWIW website. While users can always watch what someone else is watching for free, to watch things when want and have control of when video starts, pauses, etc., they have to purchase the show.</p><p>The technology is not particularly challenging, as the idea is a natural expansion of online streaming-video efforts, like those of Netflix and cable/network TV. Introducing a friend-based subscription model should create a new social site that people will constantly monitor to see if someone has purchased (and is streaming) something they want to watch.</p><p><strong>Current Resources:</strong><br />WWIW is run and founded by a pair of sales/marketing guys who have limited technical backgrounds.  You both came up with the idea, and have quickly developed a prototype video player and beta website. The company is just a few months old, but already you have thousands of users – despite your minimally featured video player and bare-bones website. To make the entire operation look more professional and attractive, you’ll need to revamp the technology. The site is currently making $1,000/month, but the market is huge and you have barely begun to enter it. You believe that your site has the potential to dominate the market, and your models show you generating about $100M in revenue in five years.</p><p><strong>Current Strategy:</strong><br />Since neither of you are confident in your business abilities (in terms of operations and strategy), bringing on a CEO type is desirable. You also don’t really know where to go next with your site or how to make it go big, so this type of hire is probably one of the first things you need.</p><p><strong>Current Needs:</strong><br />To develop a new video player and enhance the current website, you’ll need at least $1,000,000, but probably more like $3,000,000 – in addition to hiring a programmer – in order to be competitive with the other social-media sites. You also need an executive who can help find and pave the way to WWIW’s future. You know you have an awesome idea on your hands but just aren’t sure how to get there.</p>",
+      "ideal_funding": 3000000,
+      "short_narrative":"People can watch videos that other people are watching online, and pay additional fees to be able to watch videos from the beginning.",
+      "animation_pointer":"logoWatching"
+    }, 
+    {
+      "diversity": "exploratory", 
+      "name": "FirePoint",
+      "displayName": "FirePoint",
+      "skills": [
+        "sales", 
+        "marketing"
+      ], 
+      "min_funding": 1000000, 
+      "avatar": "images/avatar/company/fire-point-64x64.png",
+      "avatar96":"images/avatar/company/fire-point-96x96n.png",
+      "background": "finance", 
+      "narrative": "<p><strong>FirePoint</strong> develops technologies that go through financial records and determine data about customer tastes and preferences. They have created a social-recommendation engine that is able to provide real-time suggestions about interesting products and services through computers, mobile phones and other Internet-connected devices. FirePoint products will be sold to financial companies to enhance their consumer offerings and marketing campaigns.</p><p>There are a lot of recommendation engines out there, but FirePoint is the first to work with financial services firms directly. Also, the technology uses research developed by marketing professors at Wharton, which is much more accurate than any existing data systems. FirePoint hopes that this will distinguish it from other software on the $1B market. Nobody else has more than a 10-percent share, and you believe that FirePoint can easily do better given the appropriate resources. You are estimating that you will achieve $100M in revenue by year five.</p><p><strong>Current Resources:</strong><br />FirePoint was founded two programmers (you) who licensed the technology from Wharton. The company is six months old and has a prototype of the software currently running at two large credit unions that provide incentives to their members based on the recommendations for the software. The technology is protected by two patents, and early reviews are good.</p><p>You sold the first version of the software for $50,000, but expect to charge up to ten times that amount in the future (though you are not sure who the most promising customers will be yet). You currently have no money in the bank.</p><p><strong>Current Strategy:</strong><br />You need to develop the software while also planning for the eventual sales and marketing of the product. You hope to sell the company to Google or Facebook within three years, but that will require substantial improvements in the software, in addition to many more customers.</p><p><strong>Current Needs:</strong><br />The details of your software are still evolving, as the early model is just a prototype, and you need to better identify your market. You feel very confident in your technical knowledge, but could use help in sales and marketing.</p><p>You estimate that you can finish developing the software in one year for $500,000; if you want to try to develop it faster, you could do it in six months for $1,000,000. You think that you will also need somewhere between $500,000 and $1,000,000 to ramp up sales and marketing efforts, as you don't have expertise in either of these areas.</p>",
+      "ideal_funding": 3000000,
+      "short_narrative":"Develops technology for analyzing financial data to determine user preferences and aid in selling financial products and related services.",
+      "animation_pointer":"logoFirePoint"
+    },
+    {
+      "diversity": "exploitative", 
+      "name": "Social Bull",
+      "displayName": "Social Bull",
+      "skills": [
+        "sales", 
+        "technical"
+      ], 
+      "min_funding": 500000, 
+      "avatar": "images/avatar/company/social-bull-64x64.png",
+      "avatar96":"images/avatar/company/social-bull-96x96n.png",
+      "background": "finance", 
+      "narrative": "<p><strong>SocialBull</strong> is designed as a networking platform for finance and stock enthusiasts. It offers an interactive platform for investors to share stock information, apply investment tools, and communicate in real time with other investors in an online community of international users. Its virtual trading platform complements its social-networking features by allowing investors to act on their content, sharing their virtual portfolio, stock picks and stock performance.</p><p>You currently make your money from advertising, but hope to eventually partner with large financial players for a commission on stock trades. There are a number of other companies – mostly startups – aiming for this space.  However, you feel that your technology and design are currently the best in the market.</p><p><strong>Current Resources:</strong><br />SocialBull was founded by two MBAs right out of school, one with a finance background and the other with a marketing background. You hired programmers to design the site, and have launched an early beta. Your initial site launch was three months ago, receiving good buzz thanks to viral marketing, and you currently have 5, 000 users active in the beta version. You are making $1,500 a month in ad revenue, but expect that to grow to $5,000 a month within a year. You are working very hard administering the site, have no permanent employees, and you’re spending $1,000 a month on overhead and website maintenance, with $10,000 in the bank.</p><p><strong>Current Strategy:</strong><br />You need to build up the underlying technology behind the website to become a major player, and you need to make deals with major financial institutions in order to attract more users to your platform.. You hope to sell the company to a large player in the space within five years, as you expect revenues will be approaching $100M a year by then.</p><p><strong>Current Needs:</strong><br />You need $400,000 just to cover operations for the next year as you scale up, as well as your minimal salaries. You eventually want to hook your software into real stock trading platforms, which will cost around $2,000,000.  For this you'll need a technical lead who can handle all of the logistical details related to making it happen. You also need to market the product, and estimate that you can do this for $100,000 through continuing the current viral methods, or up to $2,000,000 if you use traditional advertising means. After that, you need a salesperson to sell potential partners on SocialBull.</p>",
+      "ideal_funding": 4500000,
+      "short_narrative":"Interactive platform for finance and stock enthusiasts to trade information and tips.",
+      "animation_pointer":"logoSocialBull"
+    }, 
+    {
+      "diversity": "exploratory", 
+      "name": "Pay It Forward",
+      "displayName": "Pay It Forward",
+      "skills": [
+        "programming", 
+        "sales"
+      ], 
+      "min_funding": 2000000, 
+      "avatar": "images/avatar/company/pay-it-forward-64x64.png",
+      "avatar96": "images/avatar/company/pay-it-forward-96x96n.png",
+      "background": "finance", 
+      "narrative": "<p><strong>PayItForward.com</strong> coordinates a microfinancing marketplace where borrowers and lenders can meet to arrange loans below $1,000. Borrowers request funds and a multitude of lenders contribute small increments toward the full amount. The interest rate is based on the borrower’s transaction history on the site and current credit rating. PayItForward.com also provides a variety of related financial services, taking a service fee on every transaction. The web-based company is considering becoming a lender itself, which would make it a competitor to traditional lending institutions. All of this is still very new, and the market is changing rapidly.</p><p>If you can maintain momentum and continue to innovate, you estimate that you should be able to reach revenues of $100M within five years.  While there are other microcredit suppliers, you think that your target market – as well as your move towards being a lender – easily set you apart.</p><p><strong>Current Resources:</strong><br />PayItForward.com was founded by a pair of college students (you). Although you have grown the site to 5,000 unique daily visitors, and generate $20,000 a month in service fees and advertising, the site is beginning to strain under the load. You need to hire a programmer to make it more robust, in order to support more visitors. It will help if the programmer has a finance background, as you continue to incorporate more financial services into the site. You are also looking into other sources of revenue to market and sell. You’ll need a great salesperson with a good network of contacts to bring more new ideas into the mix and start selling. And there is plenty of room for growth. Someone with sales experience may be able to help grow the customer base.</p><p><strong>Current Strategy:</strong><br />Business is good, but you want to keep up the momentum by expanding services and capturing a larger audience. You hope to sell or IPO in three years, once you find a flagship product to expand the company.</p><p><strong>Current Needs:</strong><br />You need to improve the website stability so it can handle an increased load. You estimate this can be done for $2,000,000 at the low end, but $5,000,000 to ensure robustness of the platform. You will need to hire an actual programmer to lead this project if you want it done right. You also need to decide whether to start direct lending through the site as a way to offer something new, or find another product to expand the company’s offerings. With your limited sales experience, you haven't come up with many ideas on your own – hopefully, an experienced salesperson has both the skills and the leads to get the company going in the appropriate direction.</p>",
+      "ideal_funding": 5000000,
+      "short_narrative":"Micro-financing marketplace where people can lend small amounts to each other.",
+      "animation_pointer":"logoPayItForward"
+    }, 
+    {
+      "diversity": "exploitative", 
+      "name": "In The Game",
+      "displayName": "In The Game",
+      "skills": [
+        "sales", 
+        "executive"
+      ], 
+      "min_funding": 700000, 
+      "avatar": "images/avatar/company/in-the-game-64x64.png",
+      "avatar96":"images/avatar/company/in-the-game-96x96n.png",
+      "background": "social", 
+      "narrative": "<p><strong>InTheGame</strong> aggregates news articles about sports from around the Web. These articles are submitted by users who participate in a social network. Amateur writers can also contribute to the site with blog posts about their favorite sports topics. Professional athletes from the NBA, NFL, and MLB contribute blogs and articles in return for a share of revenue. You already have three well-known athletes blogging for the site, and plan on adding 10 more in the next few months.</p><p>You make money through advertising and selling sports-oriented merchandise. ESPN and other major companies are also competing in this space, but you think that you have a better technology platform and that you can compete on the pro-athlete participation side.</p><p><strong>Current Resources:</strong><br />InTheGame was founded by a former sportswriter and a project manager who worked for Facebook. The project manager has plenty of technology connections, and the sportswriter has located promising athletes and writers.</p><p>You are making $8,000 a month in ad revenue, and expect that to at least double within a year.  You also have $100,000 of your seed funding still left to spend.</p><p><strong>Current Strategy:<strong><br />The company has been running for two years in Cleveland. The basic site is already operational and gaining popularity among those who follow Ohio sports teams. If you were to gain national popularity, the amount of money the company could make is astronomical.  In that vein, you feel you are being relatively conservative in estimating revenues of $100M a year within five years.</p><p><strong>Current Needs:</strong><br />You need $500,000 just to cover operational costs for the next year, in addition to paying out your minimal salaries as you scale up. Marketing is critical,too, and a minimal marketing campaign will cost $200,000 if you choose to slowly expand, or up to $4,000,000 if you want to quickly expand on a national level. You are also looking for help in sales, and want someone with more large-scale operational experience since neither of you feel like you are CEO material.</p>",
+      "ideal_funding": 4500000,
+      "short_narrative":"Combines sports news from around the web, and offers content from athletes themselves.",
+      "animation_pointer":"logoInTheGame"
+    }, 
+    {
+      "diversity": "exploitative", 
+      "name": "Second Opinion",
+      "displayName": "Second Opinion",
+      "skills": [
+        "executive", 
+        "marketing"
+      ], 
+      "min_funding": 1000000, 
+      "avatar": "images/avatar/company/second-opinion-64x64.png",
+      "avatar96": "images/avatar/company/second-opinion-96x96n.png",
+      "background": "biomedical", 
+      "narrative": "<p><strong>SecondOpinion.com</strong> connects Americans to highly trained doctors in the U.S. from elsewhere in the world, including India, to get answers to medical questions, second opinions and medical advice. You already have a successful pilot program in place; future plans call for the ability to write prescriptions and, eventually, perform remote diagnosis using computers and webcams. Initially offered as a service to individuals, SecondOpinion.com will soon expand into partnerships with insurers and large firms.</p><p>You estimate a market size for telepresence medical services at $1 billion this year, with an annual growth rate of 10 percent. There is no established leader in this market space, just many small players, so you are learning from the successes and failures of others. You wish to be the first large player and dominate the market, achieving $100M a year by your fifth year of business..</p><p><strong>Current Resources:</strong><br />SecondOpinion.com was founded by a pair of MDs (you). Neither of you have experience in running companies or any deep technical knowledge.  You do have a quick-and-dirty website and pilot program completed, using contractors to do the technical work.  As the company grows, you'll need a seasoned exec on board to help set the strategy and vision for the future. Individuals with a biomedical background are obviously a bonus.</p><p>Your company is currently up and running on a small scale and is making $10,000 a month. With an ideal amount of funding, you hope to grab 10 percent of the market share within a few years. You have the ideas and some of the technical needs covered, and you have $100,000 in the bank.</p><p><strong>Current Strategy:</strong><br />You need to build up the underlying technology and website to become a major player in this emerging space. You have some technical staff overseas that you have been outsourcing to, but you need more funds to keep things going. You hope to sell or IPO in five years, but you need someone to help direct you onto that path.</p><p><strong>Current Needs:</strong><br />You need to start to develop the technology that will enable SecondOpinion.com to connect customers to doctors. You estimate that this will cost $500,000 at the low end, and up to $2,000,000 for a full-featured solution, though you feel comfortable using your current outsourced programming team, for now. You also need to market your product and estimate that you can do this for $500,000 through mass viral methods, or up to $3,000,000 if you use advertising. You need a marketing person to take charge of this, since neither of you have any experience in this field.</p><p>You don’t know what kinds of people to hire, or how to run a software development effort. You are not sure of the tactical steps you will need to go through to achieve your strategy. An experienced executive who can orchestrate your business plan is vital for your company’s future success.</p>",
+      "ideal_funding": 5000000,
+      "short_narrative":"Connects people to second opinions for medical questions from around the world.",
+      "animation_pointer":"logoSecondOpinion"
+    }, 
+    {
+      "diversity": "exploratory", 
+      "name": "Discovery Engine",
+      "displayName": "Discovery Engine",
+      "skills": [
+        "technical", 
+        "marketing"
+      ], 
+      "min_funding": 2000000, 
+      "avatar": "images/avatar/company/discovery-engine-64x64.png",
+      "avatar96":"images/avatar/company/discovery-engine-96x96n.png",
+      "background": "biomedical", 
+      "narrative": "<p><strong>Discovery Engine</strong> provides a series of tools that support biomedical research. Based on technology developed in a lab at the University of Pennsylvania, Discovery Engine helps companies visualize molecules, and assists researchers in selecting candidate substances that are more likely to provide therapeutic benefit. Discovery Engine could help cut the time to develop new drugs by 10-20%.</p><p>Currently, the equipment and software is a promising prototype. If Discovery Engine is successful, it could be a breakthrough product supporting biomedical research; even if it doesn’t reach the performance goals set out by the founders, there is still the possibility of selling the software as a tool for the industry.</p><p><strong>Current Resources:</strong><br />Discovery Engine was founded by a Penn professor, who developed and programmed the technology, and a new MBA student with a biotech background, who identified the technology from the university’s licensing office. The technology is protected by 10 patents, and so far has proven promising in the lab. You have no revenue, and are probably a year away from even the simplest version of commercially viable software, so both of you are currently foregoing salaries.</p><p><strong>Current Strategy:</strong><br />You need to develop the software while also planning for the eventual sales and marketing of the product. You think there is a 33% chance that the software will be so effective that it will nearly sell itself, making everyone involved very rich.  A financial projection put together by a team of MBAs has you achieving $100M in revenue within five years.</p><p><strong>Current Needs:</strong><br />You estimate that you can develop the tools in one year for $2,000,000; if you want to try to develop it faster, you could do it in six months for $4,000,000.  Having another technician to help create the equipment is pretty much required spending as well. You also need someone to take charge of marketing Discovery Engine to the research labs around the country, as neither of you can take the time to travel and do this type of work. Ideally, this person would have a biomedical background, so that he or she can communicate intelligently about the product. </p>",
+      "ideal_funding": 4000000,
+      "short_narrative":"Tool for biomedical research that allows the visualization of molecules.",
+      "animation_pointer":"logoDiscoveryEngine"
+    }, 
+    {
+      "diversity": "exploratory", 
+      "name": "BioBand",
+      "displayName": "BioBand",
+      "skills": [
+        "executive", 
+        "technical"
+      ], 
+      "min_funding": 1200000, 
+      "avatar": "images/avatar/company/bio-band-64x64.png",
+      "avatar96":"images/avatar/company/bio-band-96x96n.png",
+      "background": "biomedical", 
+      "narrative": "<p><strong>BioBand</strong> develops and sells bandages that are largely biological-based with little synthetic fibers. The bandage comes in the form of a solution, which may be applied with a wand to a target area. The solution forms a seal and contains cellular material that aids in skin regeneration. You think this product is the best new product of its type and can easily take the billion-dollar bandage market by storm.</p><p><strong>Current Resources:</strong><br />BioBand was formed by two chemists (you). You have no experience running companies, or any deep technical knowledge. You do, however, have a quick-and-dirty website and pilot program complete. As the company grows, you'll need a seasoned exec to help set the strategy and vision for the future of the company.  Individuals with a biomedical background are obviously a bonus.</p><p>Your company is currently up and running on a small scale, making $10,000 a month. With an ideal amount of funding, you hope to grab 10% of the market share within five years, or about $100M in revenue. You have the ideas and some of the technical needs covered, and you currently have $100,000 in the bank.</p><p><strong>Current Strategy:</strong><br />You need to develop the product in order to expand the product line, and for that you require additional assistance. You hope to sell or IPO in five years, but you need someone to help direct you onto that path.</p><p><strong>Current Needs:</strong><br />You need to market the product, and estimate you can do this for $200,000 through mass viral methods, or up to $1,000,000 if you use advertising. You also need to develop extensions of the product line, and estimate you can do this for $1,000,000 worth of lab time and equipment, or up to $5,000,000 if you retrofit your existing lab with the best equipment – but, to use all the best you'll need a technician to actually put this level of equipment to use.</p><p>You lack technological skills and operations experience. You don’t know what kinds of people to hire or how to run a mass-marketing campaign. You are not sure of the tactical steps you will need to take to achieve your strategy.  Hiring an experienced executive is vital for your future success. You also need a technical lead to coordinate the many complex technology choices you will be making.</p>",
+      "ideal_funding": 6000000,
+      "short_narrative":"Develops and sells synthetic bandage solutions that can be applied with a 'wand.'",
+      "animation_pointer":"logoBioBand"
+    }
+  ], 
+  "investors": [
+    {
+      "diversity": "large", 
+      "name": "KIB Financial Group",
+      "displayName": "KIB Financial Group",
+      "acronym": "KIB", 
+      "money": 3000000, 
+      "avatar": "images/avatar/investor/kib.png",
+      "background": "finance", 
+      "narrative": "<p>You built a nationwide sales organization for a fast-growing consumer credit company, until changes in the financial market caused the company to collapse. What remained, including your division, was merged with KIB Financial Group. Since the acquisition, you have been a steady and valuable employee of theirs. Having grown, KIB is now looking to invest back in the financial space to find the \"\"next big thing.\"\" You are put in charge of this effort.</p><p>You are looking to contribute $3,000,000 to your new partner.</p>",
+      "skill": "sales"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "Resurgent Angels",
+      "displayName": "Resurgent Angels",
+      "acronym": "RSA", 
+      "money": 2000000, 
+      "avatar": "images/avatar/investor/ovc.png",
+      "background": "finance", 
+      "narrative": "<p>In the wake of the financial crash you left  your job as a top executive for a large brokerage firm and joined a few of your buddies in starting an angel-investment network. Your company, Resurgent Angels, will specialize in startups in the financial sector, and your friends and fellow investors thought you'd be the perfect person to search for potential companies.</p><p>You are currently prepared to invest $1-2M, depending on how excited you are about the company you find.  You aren't in any rush, so you have flexibility in waiting for a return – as long as it seems likely. (And an ROI will probably be more likely if the chosen startup lets you help handle some of their business strategies.)</p>",
+      "skill": "executive"
+    }, 
+    {
+      "diversity": "small",
+      "name": "Brilliant Guy Investments",
+      "displayName": "Brilliant Guy Investments",
+      "acronym": "BGI",
+      "money": 2000000, 
+      "avatar": "images/avatar/investor/bgi.png",
+      "background": "finance", 
+      "narrative": "<p>Every large bank uses the software you created to handle specialized bank-to-bank communications. When the three-man company you ran was bought by a large technology organization, it confirmed what you always knew: you are a technical genius! Bored by your new life of luxury, you now want to invest your money in something in the financial-services area, and perhaps get the thrill of helping another startup design its software and systems.</p><p>You can invest up to $2,000,000 in new ventures.  While you haven't done this before, you’re confident you'll be great at it. You also expect that whomever you invest in will recognize how terrific you are – after all, what’s the point of being successful if you aren’t also looked up to?</p>",
+      "skill": "technical"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "Beat You",
+      "displayName": "Beat You",
+      "acronym": "BYC", 
+      "money": 2000000, 
+      "avatar": "images/avatar/investor/byc.png",
+      "background": "social", 
+      "narrative": "<p>You work at a large social networking site, BeatYou.com, as the director of marketing. You have now also been put in charge of reinvesting some of the money the company has made into the \"\"next big thing.\"\" Hopefully, your years of marketing experience can help this new company succeed.</p><p>You have been entrusted with up to $2,000,000 to invest into a new startup, preferably something for which the current BeatYou.com social-network infrastructure can be used.</p>",
+      "skill": "marketing"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "You Connect",
+      "displayName": "You Connect",
+      "acronym": "YCC", 
+      "money": 1000000, 
+      "avatar": "images/avatar/investor/ycc.png",
+      "background": "social", 
+      "narrative": "<p>You the lead technical architect for YOUconnect, a social-networking site aimed at programmers. The business has been growing quickly, and you told the CEO, your friend, that you are the right person to help YOUConnect diversify by investing in start-ups in the space. (You must have been persuasive, as she agreed.)</p><p>You have $1,000,000 at your disposal to fund a company, and you want to make an impact quickly in order to solidify your position.</p>",
+      "skill": "technical"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "Mindstorm Venture Capital",
+      "displayName": "Mindstorm Venture Capital",
+      "acronym": "MVC", 
+      "money": 2000000, 
+      "avatar": "images/avatar/investor/mvc.png",
+      "background": "social", 
+      "narrative": "<p>You work at Mindstorm Venture Capital (MVC) as an analyst. You are given a lot of autonomy with the fund's small pool of capital devoted to angel investments. You look for startups with potential, and try to get a small piece of each. Because MVC is a smaller group, the policy is to have as large an angel portfolio as possible. Your previous job was at a small contract-programming firm specializing in the ever-growing market of social sites, so your many connections there may come in helpful with certain types of companies.</p><p>You have $2,000,000 to work with, but aren't really looking to invest any more than $1,000,000 of it into any single company.</p>",
+      "skill": "programming"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "Summit Medical Ventures",
+      "displayName": "Summit Medical Ventures",
+      "acronym": "SMV", 
+      "money": 3000000, 
+      "avatar": "images/avatar/investor/smv.png",
+      "background": "biomedical", 
+      "narrative": "<p>You used to be the head of technical operations of a large health care group. After passing the reigns to your protégé and retiring for a while, you decided that you miss taking charge and making things happen. You'd like to try your hand at owning part of a company, so you want to find a new startup to get involved in.</p><p>You have connections in the medical field, along with a hefty amount of technical experience. You are looking to take a very hands-on approach with investing, and are comfortable putting between $1,000,000 and $3,000,000 on the line, depending on your belief in the strength of the idea and the amount of control you can get.</p>",
+      "skill": "technical"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "Starr Capital Management",
+      "displayName": "Starr Capital Management",
+      "acronym": "SCM",
+      "money": 2000000, 
+      "avatar": "images/avatar/investor/scm.png",
+      "background": "biomedical", 
+      "narrative": "<p>You are an operating partner from Starr Capital Management, specializing in biomedical marketing. Starr is a large research-driven investment firm focused on early-stage investments in the medical field. Starr takes an active role in helping entrepreneurs build successful businesses, and has played a role in over 40 successful startups. Leveraging Starr’s strategic holdings in medical research and media outlets, you can help new businesses source potentially lucrative deals.</p><p>You have been given the opportunity to negotiate some seed-stage investments for Starr. You have up to  $2,000,000 dollars you can commit to a company, and you hope to remain personally involved in the organization.</p>",
+      "skill": "marketing"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "United Mind Investors",
+      "displayName": "United Mind Investors",
+      "acronym": "UMI", 
+      "money": 2000000, 
+      "avatar": "images/avatar/investor/umi.png",
+      "background": "entertainment", 
+      "narrative": "<p>You have spent your entire career as a salesperson for one of the country’s leading video-game publishers. Over the years, you have worked your way up in the company and are now the head of sales.  On your advice, your company has launched a venture arm – the impressively named United Mind Investors.  You think you have good intuition, with regard to the startup scene, and you’re eager to guide the first investment or two personally.</p><p>The first investment, however, is mostly a test, and you only have $2,000,000 available.</p>",
+      "skill": "sales"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "Omipresent Venture Capital Management",
+      "displayName": "Omipresent Venture Capital Management",
+      "acronym": "OVC", 
+      "money": 2000000, 
+      "avatar": "images/avatar/investor/ovc.png",
+      "background": "social", 
+      "narrative": "<p>You are a junior partner at Omnipresent Venture Capital Management (OVC), a fairly well-regarded VC that invests mostly in Internet space. You joined OVC right out of the MBA program, and prior to that you worked at Microsoft as a technical manager. You have worked with senior partners on a variety of social-networking site deals, and sit on the boards of a number of companies in that space. The partners have made it clear to you that they want you to source your own early-stage deal for them.</p><p>You have $2,000,000 available to invest. A lot rides on you finding a deal you are comfortable with in this space, as – if you can find the right startup – it will almost certainly be approved by OVC.</p>",
+      "skill": "programming"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "All Net Innovations",
+      "displayName": "All Net Innovations",
+      "acronym": "IAI", 
+      "money": 3000000, 
+      "avatar": "images/avatar/investor/iai.png",
+      "background": "social", 
+      "narrative": "<p>You work at AllNet Innovations (AI), a company that is trying to gain a stranglehold on the Internet in every way possible. Previously, you were the founder and CEO of a successful social site, but when your company was bought by the AI conglomerate, they set you and your particular set of skills to the task of finding other potentially successful startups. As part of your agreement with AI, you have a substantial amount of discretion as to where you invest these funds.</p><p>You have $3,000,000 in seed stage dollars remaining at your disposal. You also have a lot of free time on your hands, so you would like to put your extensive business expertise to work by investing in a company that would want you to be heavily involved on their executive team.</p>",
+      "skill": "executive"
+    }, 
+    {
+      "diversity": "large", 
+      "name": "Medipossible Ventures",
+      "displayName": "Medipossible Ventures",
+      "acronym": "MPV",
+      "money": 2000000, 
+      "avatar": "images/avatar/investor/mpv.png",
+      "background": "biomedical", 
+      "narrative": "<p>You are a managing director for Medipossible Ventures, a well-known venture capital firm specializing in medical and biomedical startups.  Over the years you have done well, but given the changing state of VC, you have persuaded the other principals to allow you to make some smaller investments in early-stage companies. With your high-level experience and strategic wisdom, you expect to contribute significantly to the way the company operates.</p><p>As long as you are getting a significant portion of control of a company, you'd be able to invest up to $2,000,000. You really want to be able to call some of the shots, though, guiding their strategic plan, and insuring that they – and, in turn, you – are successful.</p>",
+      "skill": "executive"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "Hippocratic Medical Venture Partners",
+      "displayName": "Hippocratic Medical Venture Partners",
+      "acronym": "HMV", 
+      "money": 1000000, 
+      "avatar": "images/avatar/investor/hmv.png",
+      "background": "biomedical", 
+      "narrative": "<p>You have spent a large portion of your career in a partnership with another doctor, running a small private-practice clinic. You specialize in the technical aspects of your field and have managed the rather complex technology of your clinic for years. As you near your retirement, you've decided to join up with the Hippocratic Medical Venture Partners, a well-regarded angel network. Their policy is that each member finds their own first startup company to invest in.</p><p>You have $1,000,000 available for your first investment.</p>",
+      "skill": "technical"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "MedCentra Medical Technology Partners",
+      "displayName": "MedCentra Medical Technology Partners",
+      "acronym": "MCM",
+      "money": 3000000, 
+      "avatar": "images/avatar/investor/mcm.png",
+      "background": "biomedical", 
+      "narrative": "<p>You have worked in marketing for a small, privately owned biomedical research company, Med Centra Medical Technology Partners, for a number of years. Med Centra has worked with a variety of small research companies to help them bring products to market. Now the partners are interested in making some venture investments of their own, and would like you to find a new early-stage startup or two in which to invest. Using what you know about marketing in the biomedical industry, you should be able to find a suitable match.</p><p>You have been given $3,000,000 to fund a potential partner.</p>",
+      "skill": "marketing"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "FinancesRUs",
+      "displayName": "FinancesRUs",
+      "acronym": "FRU", 
+      "money": 3000000, 
+      "avatar": "images/avatar/investor/fru.png",
+      "background": "finance", 
+      "narrative": "<p>You made quite a bit of money as the head technology person at two small startups aimed at the financial sector, both of which were sold to larger players. After taking some time off following your most recent exit, you started your own angel group, FinancesRUs, with some of your friends from your last company. This will be your first time making a decision on how to invest company resources.</p><p>You have $3,000,000 to make solid investments with a high likelihood of return, in order to ensure you don’t lose money on your first outing. With your background in programming, you may also be able to offer a little extra non-monetary help to the appropriate startup.</p>",
+      "skill": "programming"
+    }, 
+    {
+      "diversity": "small", 
+      "name": "Fiorillo Financial",
+      "displayName": "Fiorillo Financial",
+      "acronym": "FFF", 
+      "money": 3000000, 
+      "avatar": "images/avatar/investor/fff.png",
+      "background": "finance", 
+      "narrative": "<p>You are working for a small financial group, Fiorillo Financial, as the head of the marketing department. You have become close to John Fiorillo, the owner of the company, and he has come to trust you with advising his personal investment decisions. As you have already spent many hours researching other companies’ marketing strategies, you are the perfect person to help your boss find a good company to personally invest in.</p><p>You have been entrusted with $3,000,000.</p>",
+      "skill": "marketing"
+    }
+  ]
+}
