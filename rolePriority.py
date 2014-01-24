@@ -62,16 +62,23 @@ for role_type in added_types:
     priority_list.append(next_role)
     count[role_type] += 1
 
-print ", ".join(priority_list)
-print ""
-print ", ".join(prioritized_roles["founder"])
-print ""
-print ", ".join(prioritized_roles["investor"])
-print ""
-print ", ".join(prioritized_roles["employee"])
-print ""
-print "\n".join(priority_list)
 
+print ""
+print "Useful debugging info:"
+print ""
+for i in range(len(priority_list)):
+    print " " + str(i+1) + "  " + priority_list[i]
+
+
+
+print ""
+print "Copy the following output to copy into the Forio Model:"
+print ""
+print "M RequiredRoles = " + ", ".join(priority_list)
+print "R Founders = " + ", ".join(prioritized_roles["founder"])
+print "R Investors = " + ", ".join(prioritized_roles["investor"])
+print "R Employees = " + ", ".join(prioritized_roles["employee"])
+print ""
 
 
 
