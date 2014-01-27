@@ -10,16 +10,16 @@ rolesfile = open('roles.json')
 roles = json.load(rolesfile)
 role_mappings = {}
 
-company_names = [company["name"] for company in roles["companies"]]
-for name in company_names:
-    role_mappings[name+"_1"] = name
-    role_mappings[name+"_2"] = name
-    role_mappings[name+"_3"] = name
-
-#investor_names = [investor["name"] for investor in roles["investors"]]
-#for name in investor_names:
+#company_names = [company["name"] for company in roles["companies"]]
+#for name in company_names:
 #    role_mappings[name+"_1"] = name
 #    role_mappings[name+"_2"] = name
+#    role_mappings[name+"_3"] = name
+
+investor_names = [investor["name"] for investor in roles["investors"]]
+for name in investor_names:
+    role_mappings[name+"_1"] = name
+    role_mappings[name+"_2"] = name
 
 
 #print json.dumps(company_names, indent=4);
